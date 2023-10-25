@@ -1,7 +1,8 @@
 <h1>
   hello there
-  <img src="https://media.giphy.com/media/bdTxWolHXUtbi/giphy.gif"/>
+  
 </h1>
+<img src="https://media.giphy.com/media/bdTxWolHXUtbi/giphy.gif"/>
 
 <!--
 **Andrestii/Andrestii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
