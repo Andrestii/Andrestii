@@ -1,6 +1,6 @@
 <h1>
   hello there
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmoxcDg3dnZsODI2MmY4OWozYWtvMGNxdTJhd2xsa3BtNWtoNDQ2ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/hvRJCLFzcasrR4ia7z/giphy.gif"/>
+  <img src="https://media.giphy.com/media/bdTxWolHXUtbi/giphy.gif" width="30px"/>
 </h1>
 
 <!--
