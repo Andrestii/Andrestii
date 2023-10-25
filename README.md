@@ -1,3 +1,5 @@
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=515&lines=hello+there%2C+welcome+to+Andresti's+profile" alt="Typing SVG" /></a>
+
 <h1>
   hello there
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmoxcDg3dnZsODI2MmY4OWozYWtvMGNxdTJhd2xsa3BtNWtoNDQ2ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"/>
