@@ -1,6 +1,6 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=515&lines=hello+there%2C+welcome+to+Andresti's+profile!" alt="Typing SVG" /></a>
 
-[![ko-fi](https://storage.ko-fi.com/cdn/brandasset/kofi_bg_tag_dark.png)](https://ko-fi.com/andresti)
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/andresti)
 
 <!-- <h1>
   hello there
