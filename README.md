@@ -2,6 +2,11 @@
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/andresti)
 
+<p><img align="center"
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=Andrestii&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
+    alt="adam-pw" 
+    bg_color=#808080/></p>
+
 <!-- <h1>
   hello there
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmoxcDg3dnZsODI2MmY4OWozYWtvMGNxdTJhd2xsa3BtNWtoNDQ2ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"/>
