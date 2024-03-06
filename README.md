@@ -8,7 +8,7 @@
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/andresti)
 
-<!-- GitHub readme cheatsheet: https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax -->
+<!-- GitHub readme cheatsheet: https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet -->
 
 <!-- <h1>
   hello there
