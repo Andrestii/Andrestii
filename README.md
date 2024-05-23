@@ -5,12 +5,12 @@
 </p>
 
 <p align="center">
-    <img src="https://github-widgetbox.vercel.app/api/profile?username=andrestii&data=followers,repositories,stars,commits&theme=radical&title_color=000000">
+    <img src="https://github-widgetbox.vercel.app/api/profile?username=andrestii&data=followers,repositories,stars,commits&theme=darkmode&title_color=000000">
 </p>
 
 <p align="center">
     <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=Andrestii&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=Andrestii&show_icons=true&locale=en&bg_color=16161C&text_color=ffffff&layout=compact&title_color=E4E6EB&hide_border=true"
     alt="adam-pw" 
     bg_color=#808080/></p>
 <br>
