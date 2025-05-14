@@ -15,7 +15,7 @@
 <br>
 
 <div align="center">
-    <a href="https://ko-fi.com/andresti"><img src="https://ko-fi.com/img/githubbutton_sm.svg" width="300" />
+    <a href="https://ko-fi.com/andresti"><img src="https://storage.ko-fi.com/cdn/brandasset/v2/support_me_on_kofi_dark.png" width="300" />
 </div>
 
 <!-- GitHub readme cheatsheet: https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet -->
